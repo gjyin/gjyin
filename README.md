@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ I’m currently a senior reseacher at [Pangu](https://www.huaweicloud.com/product/pangu.html) Research Team, Huawei Cloud.
+- ⚡ I’m currently a senior reseacher at Meituan.
 - 🔭 I’m currently working on multimodal & LLM foundation models and AIGC, as well as the applications to industry.
 - 👯 Positions are available for self-motivated fulltime researchers, engineers and interns.
 - 🌱 I’m looking for long-term collaborations on research in the fields of LLM, multimodal, AIGC and so on.
