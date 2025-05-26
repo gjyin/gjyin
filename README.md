@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ I’m currently a senior reseacher at Meituan, leading an effort on application and research of GenAI and foundation models.
-- 🔭 I’m currently working on multimodal & LLM foundation models and GenAI, as well as the applications to industry.
+- 🔭 I’m currently working on multimodal & LLM foundation models and GenAI, Agentic Learning as well as the applications to industry.
 - 👯 Positions are available for self-motivated fulltime researchers, engineers and interns.
 - 🌱 I’m looking for long-term collaborations on research in the fields of LLM, multimodal, Agent and so on.
 - 📫 Mail to me: gjyin@outlook.com and here is my [homepage](gjyin.github.io)
