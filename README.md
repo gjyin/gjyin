@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on multimodal & LLM foundation models, Agentic Learning and GenAI as well as the applications to industry.
 - 👯 Positions are available for self-motivated fulltime researchers, engineers and interns.
 - 🌱 I’m looking for long-term collaborations on research in the fields of LLM, multimodal, Agent and so on.
-- 📫 Mail to me: gjyin@outlook.com and here is my [homepage](gjyin.github.io)
+- 📫 Mail to me: gjyin@outlook.com and here is my [homepage](https://gjyin.github.io)
 
 <!--
 **gjyin/gjyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
